@@ -1,11 +1,11 @@
 
 body {
 font-family: Arial, sans-serif;
-background: #ofofof:
+background: #ofofof;
 padding: 20px;
 text-align: center;
 }
-video-box {
+.video-box {
 background: #a62121;
 padding: 10px;
 border-radius: 6px;
@@ -15,15 +15,26 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 video {
 width: 100%;
-}
 border-radius: 4px;
+}
 .info {
 margin-top: 8px;
- .info h3 {
+}
+.info h3 {
 font-size: 16px;
-margin: 4px 0;
-color: #002f6c;
+ margin: 4px 0;
+ color: #002f6c; 
 }
 .info p {
-font-size: 13px;}
-color: #e0dfdf;
+ font-size: 13px;
+ color: #e0dfdf;
+ header }
+background-color:#202c39;
+color;#bdc3c7;
+font-family:arial,sans -sarife;
+text-align:center;
+heigth.100px;
+margin:0;
+border:none;
+width:100%
+
